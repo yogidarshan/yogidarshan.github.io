@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+      
+
+<span class="post-meta">
+{% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Stycznia
+  {% when '2' %}Lutego
+  {% when '3' %}Marca
+  {% when '4' %}Kwietnia
+  {% when '5' %}Maja
+  {% when '6' %}Czerwca
+  {% when '7' %}Lipca
+  {% when '8' %}Sierpnia
+  {% when '9' %}Września
+  {% when '10' %}Października
+  {% when '11' %}Listopada
+  {% when '12' %}Grudnia
+{% endcase %}
+
+{{ post.date | date: "%Y" }}</span>
+
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subskrybuj</a></p>
+  {%- endif -%}
+
+</div>
