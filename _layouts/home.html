@@ -17,22 +17,7 @@ layout: default
       
 
 <span class="post-meta">
-{% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Stycznia
-  {% when '2' %}Lutego
-  {% when '3' %}Marca
-  {% when '4' %}Kwietnia
-  {% when '5' %}Maja
-  {% when '6' %}Czerwca
-  {% when '7' %}Lipca
-  {% when '8' %}Sierpnia
-  {% when '9' %}Września
-  {% when '10' %}Października
-  {% when '11' %}Listopada
-  {% when '12' %}Grudnia
-{% endcase %}
+
 
 {{ post.date | date: "%Y" }}</span>
 
