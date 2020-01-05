@@ -6,13 +6,13 @@ categories: jekyll update
 ---
 Uważam, że religie wymagają aktualizacji, ponieważ zmienił się sposób publikowania informacji.
 
-# Prace różnych autorów
+## Prace różnych autorów
 
 Do pewnego momentu Sikhizm był religią najwyższej jakości ze względu na relatywnie zaawansowany sposób publikowania informacji na temat tej religii. Informacje na temat sikhizmu - w trakcie projektowania tej religii - publikowano w książce [Guru Granth Sahib][guru-granth-sahib].
 
 Niestety, od pewnego momentu zaprzestano aktualizowania Guru. Nowe strony nie są obecnie dodawane do książki, więc **sikhizm jest w tej chwili martwą religią**.
 
-# "Święte" bzdety
+## "Święte" bzdety
 
 Sikhizm jest bardziej uczciwy niż chrześcijaśnstwo. Chrześcijańska Biblia powstała podobnie jak Guru Granth Sahib jako zbieranina tekstów z różnych kultur, **Biblia zawiera jednak idiotyzmy, jak opis seksu pijanego ojca z własnymi córkami**.
 
@@ -22,11 +22,11 @@ Cytat ze strony [Racjonalista]:
 
 Przeczytałem Guru Granth Sahib i zauważyłem, że książka zawiera spójny opis postawy człowieka wobec Boga, bez promowania kazirodztwa i okrucieństwa.
 
-# Utrowy jednego autora
+## Utrowy jednego autora
 
 W islamie, **Koran nie wymaga aktualizacji**. Koran jest [zbiorem poezji autorstwa jednego człowieka][zbior-poezji]. Po śmierci autora, oczywiście nie trzeba dopisywać kolejnych utworów.
 
-# Osobiste doświadczenie
+## Osobiste doświadczenie
 
 W buddyzmie, o ile wiem, są jakieś religijne teksty, ale w buddyzmie chodzi przede wszystkim o indywidualne doświadczenie (medytację).
 
@@ -36,7 +36,7 @@ W buddyzmie brakuje mi medytacji w parach, albo rytuałów znanych z [wicca], w 
 
 W buddyzmie jest [tybetańska książka uwolnienia przez słuchanie][bhardo-thodol], ale dotyczy ona tylko tego co kapłan mówi do zmarłego. Kapłan podczas tej procedury nie oczekuje odpowiedzi od umierającego ani nie wchodzi z nim w interakcję, dlatego proces ten jest daleki od medytacji w parach.
 
-# Kwakryzm
+## Kwakryzm
 
 Religią, króta prawdopodobnie nie wymaga aktualizacji, jest kwakryzm. W kwakryzmnie jest oczywiście dostępna literatura dotycząca historii religii, ale nie ma żadnego utworu, na którym opierałaby się cała religia. Na nabożeństwach kwakrów jest obecna Biblia, ale nie jest odczytywana.
 
@@ -62,7 +62,7 @@ Jak widać z powyższych cytatów, za wyjątkiem sugestii, że część z wypowi
 
 Kwakryzm posiada wady własnowierstwa, to znaczy w kwakryzmie każdy ma swobodę do eksplorowania własnej duchowości, i korzystania przy tym z różnych źródeł, nie tylko chrześcijańskich, ale brakuje mi w nim opisu działającego sposobu na poznawanie się członków grupy, poza podkreślaniem, że cokolwiek grupa robi wspólnie, powinno się w tym znaleźć miejsce na ciszę.
 
-# Anarchizm
+## Anarchizm
 
 Anarchiści mają zdolność do organizowania się, chociaż narzędziem jakiego najczęściej w tym celu używają jest Facebook.
 
@@ -70,7 +70,7 @@ Miałem doświadczenie z Facebookiem, kiedy odebrano moje myszy podczas gdy był
 
 Bardzo mnie to denerwuje. Grupy tworzą własne strony internetowe, płacą za nie pieniądze - nawet wielkie firmy programistyczne, które powinny być w stanie same stworzyć lepsze medium! - a potem i tak używają Facebooka. Z samego założenia wyklucza to tych odbiorców, którzy nie używają Facebook.
 
-# Programy komputerowe
+## Programy komputerowe
 
 Facebook nie jest dobrą alternatywą dla [Guru Granth Sahib][guru-granth-sahib], choć spełnia podobne zadanie - jest medium, w którym ludzie publikują lub publikowali informacje o własnych praktykach, i proponują lub proponowali innym ludziom wzięcie w nich udziału.
 
@@ -86,7 +86,7 @@ Zrobiono już to wielokrotnie z powodzeniem z Biblią publikując różne [przek
 
 Żadnej z tych wad nie posiada [WordPress]. Rzeczy opublikowane na WordPress można czytać nie posiadając tam konta oraz łatwo można stworzyć własną instancję WordPressa.
 
-# Mój skasowany blog
+## Mój skasowany blog
 
 Wordpress ma taką wadę, że jest to przede wszystkim program do prowadzenia dokumentacji (bloga).
 
@@ -96,7 +96,7 @@ Zainteresowani czytelnicy mogą czytać moje dwa blogi po angielsku. Skasowany b
 
 Po skasowaniu mojego bloga prowadziłem przez krótki czas [innego bloga][steemit]. Dwa ciekawe artykuły z tamtąd, również po angielsku, to "[Dlaczego ludzie nienawidzą religii?][hate]" oraz "[Rewolucyjne samobójstwo][suicide]". Ten ostatni artykuł jest o sekcie Jima Jonesa.
 
-# Czego mi brakuje w znanych mi religiach
+## Czego mi brakuje w znanych mi religiach
 
 W znanych mi religiach brakuje mi opisu jak kontaktować się z innymi ludźmi.
 
@@ -130,7 +130,7 @@ W Hare Kryszna czynienie dobra jest chyba nawet niemile widziane, tak samo jak c
 
 To prawda - krysznowcy robią takie rzeczy - ale rozmowa z krysznowcami na terenie ich świątyń sprowadza się raczej do arbitralnych wymagań Kryszny wobec człowieka oraz do śmiesznych historii z jego życia (*rozrywek Kryszny*) niż do tym podobnych akcji humanitarnych. Rzadko omawia się w tych świątyniach inne niż wisznuickie potrzeby człowieka!
 
-# Rundy
+## Rundy
 
 W niektórych firmach miałem okazję do rozmawiania w rundach. Przynajmniej raz dziennie mieliśmy spotkanie, na którym każdy opowiadał co starał się w tym czasie osiągnąć. Raz na tydzień czy dwa mieliśmy dodatkowo spotkanie, na którym prezentowaliśmy rezultaty.
 
