@@ -262,11 +262,11 @@ Podkreślę, że zanim zasiadłem do pisania tej sekcji nie wiedziałem, że na 
 
 Każdy człowiek doświadcza świata tylko przez swoja świadomość. Nie da się doświadczyć czegokolwiek co istnieje poza własną świadomością.
 
-Wiadomo stąd, że istnieje co najmniej jedna świadomość. Nie wiadomo czy istnieje więcej niż jedna.
+Wiadomo stąd, że istnieje co najmniej jedna świadomość. Nie wiadomo, czy istnieje więcej niż jedna.
 
 Skoro nie da się doświadczyć niczego poza własną świadomością, to równie dobrze to może nie istnieć. Niemożność doświadczenia czegoś jest tożsama z nieistnieniem.
 
-(Nawet jeśli ktoś posiada zdolność postrzegania czegoś inaczej niż za pomocą swoich narządów zmysłów, to i tak może doświadczyć tego doświadczyć tylko za pomocą swojej świadomości. Doświadczyć czegoś to znaczy być tego świadomym).
+(Nawet jeśli ktoś posiada zdolność postrzegania czegoś inaczej niż za pomocą swoich narządów zmysłów, to i tak może doświadczyć tego tylko za pomocą swojej świadomości. Doświadczyć czegoś to znaczy być tego świadomym).
 
 **Wiadomo na pewno tylko tyle, że istnieje jedna świadomość**. Wszystko co poza nią jest niemożliwe do doświadczenia, a więc jest tożsame z nieistnieniem.
 
@@ -286,9 +286,7 @@ Istnieje więc coś co zawiera w sobie zarówno Boga jak i coś co nie jest Bogi
 
 To coś jest więc większe od Boga, a więc jest sprzeczne z definicją Boga, bo Bóg według definicji jest największy.
 
-Zaznaczam, że nie udowodniłem to istnienia Boga, tylko twierdzenie, że jeśli jest Bóg to jest tylko jeden i wszystko jest Bogiem.
-
-Równie dobrze Boga może w ogóle nie być, albo jakaś inna definicja Boga może być lepsza.
+Zaznaczam, że nie udowodniłem istnienia Boga, tylko twierdzenie, że jeśli jest Bóg to jest tylko jeden i wszystko jest Bogiem. Równie dobrze Boga może w ogóle nie być, albo jakaś inna definicja Boga może być lepsza.
 
 ## Cudza karma
 
@@ -302,15 +300,21 @@ Nie mam pojęcia co to jest grzech. Wydaje mi się, że grzech jest tożsamy z n
 
 Mam podstawy domniemywać, że *grzech* i *zła karma* to jedno i to samo, gdyż chrześcijanie, z którymi ostatnio rozmawiałem, twierdzili, że nawet Bóg nie może uniknąć konsekwencji grzechu, a to jest tożsame z prawem karmy - jej też nikt nie może uniknąć.
 
-Zapłatą za grzech według Biblii jest śmierć (Rzymian 6:23). Nie wiem dlaczego za każdy grzech ma być taka sama zapłata. Jakimś cudem - jak mi tłumaczono w zborze - jeżeli jest to śmierć kogoś kto jest Bogiem to jest ona wystarczająca za grzech popełniony przez wielu ludzi.
+Zapłatą za grzech jest według Biblii śmierć (Rzymian 6:23). Nie wiem dlaczego za każdy grzech ma być taka sama zapłata.
 
-Moi rozmówcy nie wytłumaczyli mi tego. Twierdzili, że i oni tego nie rozumieją. Nie próbowali znaleźć potwierdzeń w literaturze innej niż Biblia. Znam pogląd filozoficzny według którego można wziąć na siebie część karmy swoich uczniów, ale to co przedstawiono mi w zborze jest moim zdaniem mocno wyolbrzymione.
+Jakimś cudem - tak mi tłumaczono w zborze - jeżeli jest to śmierć kogoś kto jest Bogiem to jest ona wystarczająca za grzech popełniony przez wielu ludzi.
 
-Najważniejsze jest to, że rzekomo tylko śmierć kogoś kto jest Bogiem - a według mych rozmówców nie każdy nim jest - ma moc zmazywania cudzej karmy. Oczywiście moim zdaniem każdy jest Bogiem - choć nie znaczy to, że każdy może wziąć na siebie dowolną ilość karmy każdego innego - więc tu się fundamentalnie różnimy.
+Moi rozmówcy nie wytłumaczyli mi tego. Twierdzili, że i oni tego nie rozumieją. Nie próbowali znaleźć potwierdzeń w literaturze innej niż Biblia.
+
+Znam pogląd filozoficzny według którego można wziąć na siebie część karmy swoich uczniów, ale to co przedstawiono mi w zborze jest moim zdaniem mocno wyolbrzymione.
+
+Najważniejsze jest to, że rzekomo tylko śmierć kogoś kto jest Bogiem - a według mych rozmówców nie każdy nim jest - ma moc zmazywania cudzej karmy.
+
+Oczywiście moim zdaniem każdy jest Bogiem - choć nie znaczy to, że każdy może wziąć na siebie dowolną ilość karmy każdego innego - więc tu się fundamentalnie różnimy.
 
 ## Promowanie innych społeczności
 
-Moja wizyta w zborze Antiochia jest jedyną wycieczką na jaką udałem się z myślą opisania jej w tym artykule. Dlatego opisałem szczegółowo moje spostrzerzenia i wnioski.
+Moja wizyta w zborze Antiochia jest jedyną wycieczką na jaką udałem się z myślą opisania jej w tym artykule. Dlatego opisałem tu szczegółowo moje spostrzerzenia i wnioski.
 
 Widzę cechy wspólne pomiędzy chrześcijańtwem a moją własną filozofią: (a) Szukanie jakiegoś sposobu na rozwiązanie problemu złej karmy. (b) Porównywanie swojego życia z literaturą o tematyce religijnej i duchowej.
 
@@ -325,7 +329,7 @@ Moi rozmówcy też nie wykazali znajomości innej niż Biblia literatury na tema
 Zauważyłem też kilka akcji promujących społeczność, i to nie tylko społeczność chrześcijańską:
 
   1. Zbiórka książek dla więźniów we Wrocławiu.
-  2. Przekazanie środków czystości i środków higieny osobistej da "Brata Alberta".
+  2. Przekazanie środków czystości i środków higieny osobistej dla "Brata Alberta".
 
 Zależało mi bardzo na dostrzeżeniu w zborze Antiochia akcji promujących społeczności inne niż chrześcijańskie. Zdaję sobie sprawę z tego, że chrześcijaństwo nie jest doskonałą religią. Promując społeczności inne niż swoja własna można tworzyć możliwości postępu i w rezultacie szanse na powstanie lepszej społeczności.
 
@@ -391,7 +395,7 @@ Mam wrażenie, że buddyzm i hinduizm są wystarczająco dobre. Kiedy interesowa
 
 Trochę to rozumiem. W końcu zacząłem pisać programy komputerowe już w dzieciństwie, kiedy przeczytałem dopiero jedną książkę o programowaniu.
 
-W tej chwili programuję lepiej, ale już wtedy - gdy przeczytałem tylko jedną książkę - pisałem programy, które działały i spełniały moje uwczesne potrzeby. Umiałem programować w stopiu jaki mi wtedy wystarczał.
+W tej chwili programuję lepiej, ale już wtedy - gdy przeczytałem tylko jedną książkę - pisałem programy, które działały i spełniały moje ówczesne potrzeby. Umiałem programować w stopiu jaki mi wtedy wystarczał.
 
 Nie uważałem się mimo to w dzieciństwie za eksperta. Nie próbowałem nauczać innych. Wciąż byłem otwarty na zdobywanie nowej wiedzy i używałem przede wszystkim programów napisanych przez innych ludzi (gry). Interesowałem się nowymi programami oraz historią programowania.
 
