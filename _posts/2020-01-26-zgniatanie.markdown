@@ -230,7 +230,7 @@ Nie mam pomysłu na fajną puentę. Przemoc wobec zwierząt będzie kontynuowana
 
 Jako zapchajdzirę na zakończenie tego artykułu użyję niezrozumiałego cytatu, [podobno pochodzącego od Elona Muska][musk]:
 
-> Myślę, że w życie na Ziemi musi chodzić o coś więcej niż tylko o rozwiązanie problemów... To musi być coś inspirującego, nawet jeśli jest tematem zastępczym.
+> Myślę, że w życiu na Ziemi musi chodzić o coś więcej niż tylko o rozwiązanie problemów... To musi być coś inspirującego, nawet jeśli jest tematem zastępczym.
 
 Nie rozumiem tego cytatu, podobnie jak nie rozumiem Elona Muska. Autor cytatu twierdzi, że w życiu na Ziemi chodzi o coś innego niż rozwiązywanie problemów. Może i tak. Dlaczego organizacja promująca jedzenie bez mięsa rozdaje programy komupterowe, zamiast właśnie jedzenie bez mięsa? Dlaczego jedne materiały prezentujące okrucieństwo wobec zwierząt są blokowane, a inne są pokazywane ludziom, którzy sobie tego nie życzą, i można na nich zarabiać?
 
