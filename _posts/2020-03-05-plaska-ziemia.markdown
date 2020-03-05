@@ -17,7 +17,7 @@ Rozumiem jego tok rozumowania, ale autor nie podaje nigdzie dlaczego założył,
 
 Martwi mnie to, że często spotykam się z tym, że ktoś twierdzi, że Ziemia jest okrągła, a nie potrafi tego udowodnić. Często wypowiedzi na temat rzekomego okrągłego kształtu Ziemi bardzo szybko sprowadzają się do obrażania ludzi, którzy twierdzą inaczej.
 
-## Dyskusja na YouTUbe
+## Dyskusja na YouTube
 
 Zabrałem głos pod innym [wideo][dlaczego-wierzymy]. (Jego obejrzenie nie jest ważne dla zrozumienia tego artykułu). Napisałem:
 
