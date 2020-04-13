@@ -91,7 +91,7 @@ Nigdzie nie jest wprost napisane, że zbiórka tytoniu została odwołana po 17 
 
 Nie napisano, że tytoń będzie spalany w sposób nie stwarzający zagrożenia dla innych.
 
-Nie rozumiem dlaczego schronisko nie chce traktować wszystkich rodzajów uzależnień jednakowo. Od ludzi uzależnionych od alkoholu wymaga uczestnictwa w specjalnych programach, starając się równocześnie stworzyć dogodne warunki do palenia papierośow - **także wtedy gdy stwarza to zagrożenie dla ludzi, którzy nie życzą sobie kontaktu z dymem**.
+Nie rozumiem dlaczego schronisko nie chce traktować wszystkich rodzajów uzależnień jednakowo. Od ludzi uzależnionych od alkoholu wymaga uczestnictwa w specjalnych programach, starając się równocześnie stworzyć dogodne warunki do palenia papierośow – **także wtedy gdy stwarza to zagrożenie dla ludzi, którzy nie życzą sobie kontaktu z dymem**.
 
 Ktoś kto pisał [artykuł o zbiórce podczas kwarantanny][kwarantanna] zdawał sobie doskonale sprawę z tego, że papierosy uzależniają, a mimo to aktywnie działał na rzecz ułatwienia ludziom dostępu do papiesów, **zamiast starać się stworzyć dla ludzi warunki, w których nie będą narażeni na kontakt z papierosami**, równocześnie być może ignorując [regulamin].
 
@@ -117,7 +117,7 @@ Mieszkańcy Brata Alberta nie mają już dokąd pójść. Spędzają w schronisk
 
 Inne potrzeby rozumiem, nawet maszynki do golenia, choć sam się prawie nie golę. Jednocześnie nie rozumiem dlaczego [regulamin] nie może być zastosowany tak samo do uzależnienia od alkoholu jak do uzależnienia od papierosów.
 
-Rówcocześnie śledzę [zbiórkę na fundację Centaurus][centaurus]. Ogranizacja chce zebrać milion złotych na trzy miesiące działalnośi i - uwaga - nie zbiera papierosów.
+Rówcocześnie śledzę [zbiórkę na fundację Centaurus][centaurus]. Ogranizacja chce zebrać milion złotych na trzy miesiące działalnośi i – uwaga – nie zbiera papierosów.
 
 Fundacje dzisiaj konkurują pomiędzy sobą o dotacje w czasie pandemii koronawirusa. [Centaurus] potrafi dobrze umowytować każdą swoją potrzebę. Nie zbiera materiałów, które miałyby być wykorzystane w sposób stwarzający zagrożenie dla ludzi czy zwierząt.
 

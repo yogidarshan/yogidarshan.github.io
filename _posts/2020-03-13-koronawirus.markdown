@@ -19,20 +19,20 @@ Według [artykułu w Wikipedii][polska] do 13 marca 2020 włącznie w Polsce 61 
 
 Dla porównania, według statystyk podanych na [stronie rządowej][grypa] tylko w jednym tygodniu marca tego roku zarejestrowano 211 tysięcy zachorowań na **zwykłą grypę**. 7 osób zmarło:
 
-> W okresie od 1 do 7 marca 2020 r. zarejestrowano w Polsce ogółem 211.572 zachorowania i podejrzenia zachorowań na grypę. - Średnia dzienna zapadalność wynosiła 78,7 na 100 tys. ludności. - Odnotowano 7 zgonów z powodu grypy.
+> W okresie od 1 do 7 marca 2020 r. zarejestrowano w Polsce ogółem 211.572 zachorowania i podejrzenia zachorowań na grypę. – Średnia dzienna zapadalność wynosiła 78,7 na 100 tys. ludności. – Odnotowano 7 zgonów z powodu grypy.
 
 Biorąc pod uwagę tylko liczbę zachorowań, **zwykła grypa** jest **3468 razy bardziej niebezpieczna niż koronawirus**.
 
 Dalej, według [Wikipedii][polska] 1 osoba zmarła:
 
-> 11 marca poinformowano o 9 nowych przypadkach zakażenia (...) Tego samego dnia poinformowano o pierwszym przypadku śmiertelnym w Polsce: 57-letniej kobiecie, pochodzącej ze wsi Czapury. 
+> 11 marca poinformowano o 9 nowych przypadkach zakażenia (...) Tego samego dnia poinformowano o pierwszym przypadku śmiertelnym w Polsce: 57–letniej kobiecie, pochodzącej ze wsi Czapury. 
 
 
 Nie spodziewam się aby gdzieś istniały dokładne statystyki odnośnie tego ilu ludzi umiera z powodu palenia papierosów. W przypadku wykrycia raka płuc trudno jednoznacznie określić jego przyczynę, w dodatku palenie papierosów przyczynia się także do innych chorób, nie tylko do raka płuc.
 
 Mimo to, znalazłem wypowiedź ministra zdrowia Zbigniewa Króla [cytowanego przez magazyn Gość][gosc]:
 
-> Z powodu palenia co roku umiera średniej wielkości polskie miasto, większości osoby w wieku produkcyjnym - mówił w czwartek w Warszawie podsekretarz stanu w Ministerstwie Zdrowia, Zbigniew Król.
+> Z powodu palenia co roku umiera średniej wielkości polskie miasto, większości osoby w wieku produkcyjnym – mówił w czwartek w Warszawie podsekretarz stanu w Ministerstwie Zdrowia, Zbigniew Król.
 
 Według powyższych danych, biorąc pod uwagę umieralność wśród całej populacji, koronawirus jest **siedem razy mniej niebezpieczny niż zwykła grypa** i **tysiące razy mniej niebezpieczny niż palenie papierosów**.
 
@@ -58,7 +58,7 @@ Jestem przeciwko odbieraniu prawa do zgromadzeń, ale jestem świadomy, że czę
 
 ## Apel
 
-Apeluję aby zakazywać przede wszystkim palenia papierosów! Są o wiele bardziej niebezpieczne niż koronawirus, bowiem **z ich powodu ginie wiele tysięcy ludzi**, a z powodu koronawirusa - jeden człowiek.
+Apeluję aby zakazywać przede wszystkim palenia papierosów! Są o wiele bardziej niebezpieczne niż koronawirus, bowiem **z ich powodu ginie wiele tysięcy ludzi**, a z powodu koronawirusa – jeden człowiek.
 
 Jestem za tym aby **całkowicie zaniechać palenia papierosów** we Wrocławiu w miejscach, w których mogą przebywać także inni ludzie – to znaczy na przykład na przystankach, na chodnikach, 
 w pobliżu jakichkolwiek budynków.
