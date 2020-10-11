@@ -129,7 +129,7 @@ Jeżeli jest 0,32% zakażonych, to ilość zmarłych można wyliczyć według te
 
 Wyszło mi, że do tej pory zmarł 1 na 12807 mieszkańców Polski.
 
-Zauważyłem, że liczba zmarłych wśród zakażonych spada, ale jeśli mimo wszystko utrzyma się na poziomie 2,44%, a tempo wzrostu zakażeń będzie się podwajać co 6,2 dnia, to:
+Zauważyłem, że procentowy udział zmarłych wśród zakażonych spada, ale jeśli mimo wszystko utrzyma się na poziomie 2,44%, a tempo wzrostu zakażeń będzie się podwajać co 6,2 dnia, to:
 
 Za 5 dni będzie 1 zmarły na 9787 mieszkańców Polski.
 
