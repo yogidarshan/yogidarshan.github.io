@@ -94,7 +94,7 @@ Lama Rinczen nie odniósł się do zasady nieoznaczoności ani do teorii superst
 
 Przeciwnie do Lamy Rinczena, nie mam żadnego problemu z nihilizmem. Inaczej go rozumiem. Uważam, że jeśli czegoś nie ma, ale to widać, to i tak może stanowić dobry materiał do rozwoju duchowego i do wzrostu.
 
-Rzeczy, które się przejawiają, są rekwizytami do stymulowania wzrostu bez względu na to czy istnieją realnie czy nie. Nawet jeśli wszystko nie istnieje, to i tak można wchodzić w interakcje z mają i na tej podstawie wyciągać wnioski.
+Rzeczy, które się przejawiają, są rekwizytami do stymulowania wzrostu bez względu na to czy istnieją realnie, czy nie. Nawet jeśli wszystko nie istnieje, to i tak można wchodzić w interakcje z mają i na tej podstawie wyciągać wnioski.
 
 Ważne jest co innego: Umysł także jest tańcem Śiwy. Umysł jest procesem, ale bez jakiegoś bytu, który wpierw mógłby być taki, potem ulec zmianie, a następnie być inny.
 
