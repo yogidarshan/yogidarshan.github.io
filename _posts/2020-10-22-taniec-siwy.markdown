@@ -96,7 +96,7 @@ Przeciwnie do Lamy Rinczena, nie mam żadnego problemu z nihilizmem. Inaczej go 
 
 Rzeczy, które się przejawiają, są rekwizytami do stymulowania wzrostu bez względu na to czy istnieją realnie czy nie. Nawet jeśli wszystko nie istnieje, to i tak można wchodzić w interakcje z mają i na tej podstawie wyciągać wnioski.
 
-Ważne jest co innego: Umysł także jest tańcem Śiwy. Umysł jest procesem, ale bez jakiegoś bytu, który wpierw mógłby być taki, potem ulec zmianie, a następnie był inny.
+Ważne jest co innego: Umysł także jest tańcem Śiwy. Umysł jest procesem, ale bez jakiegoś bytu, który wpierw mógłby być taki, potem ulec zmianie, a następnie być inny.
 
 Nie istnieje żaden stan pośredni. Znaczenie ma tylko zmiana.
 
